@@ -1,1 +1,1 @@
-Start journey of C programming language
+working with if, else, for , while and do while
